@@ -1,7 +1,7 @@
 # In: ~/.gemini/extensions/support-dog/dog.toml
 # Invoked via: /support-dog:dog
 
-description = "Provides a hello world text."
+description = "Provides 2 hello world texts."
 prompt = """
-Generate a piece of original ASCII art of hello world.
+Generate a piece of original ASCII art of hello world, twice.
 """
